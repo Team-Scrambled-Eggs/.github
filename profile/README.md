@@ -1,5 +1,5 @@
 #### About Us
-Hi! We're a team of friends working on our current passion project: a location guessing game similar to the popular web game Geoguessr!
+Hi! We're a team of friends working on our current passion project: a location guessing game similar to the popular web game Geoguessr, with a mapmaking visual novel twist!
 
 <!--
 
